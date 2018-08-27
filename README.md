@@ -1,2 +1,3 @@
-# pyimageconf2018
-repo for all things during the conference
+# pyimageconf 2018 <img src='readme/pyimageconf_logo.png' align='right' width=>
+
+Misc scripts/slides/notes/etc from conference.
